@@ -36,6 +36,12 @@ This is everything I did during my Pyimagesearch Crash Course.
 
 > *python scan.py --image images/page.jpg*
 
+## Day 4: Bubble sheet multiple choice scanner and test grader using OMR, Python, and OpenCV
+
+**Commands used:**
+
+> *python test_grader.py --image images/test_01.png*
+
 **Note:** To get the simple neural network working, create a folder structure called **/kaggle_dogs_vs_cats/train**, download the training dataset [Kaggle-Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data) and put the images into the **train** folder (that folder had too many images to upload to GitHub).
 
 **Note:** For the search bing api, create a dataset directory first using the **mkdir dataset** command so that all imnages downloaded with be stored there. After that, execute **mkdir dataset/"class_to_search"** to make a subdirectory and run the search for whatever class your searching for.
