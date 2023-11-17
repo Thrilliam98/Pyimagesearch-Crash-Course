@@ -28,7 +28,13 @@ This is everything I did during my Pyimagesearch Crash Course.
 
 * **Counting objects:**
 
-> *python opencv_tutorial_02.py --image images/tetris_blocks.png*
+> *python opencv_tutorial_02.py --image tetris_blocks.png*
+
+## Day 3: Document Scanner
+
+**Commands used:**
+
+> *python scan.py --image images/page.jpg*
 
 **Note:** To get the simple neural network working, create a folder structure called **/kaggle_dogs_vs_cats/train**, download the training dataset [Kaggle-Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats/data) and put the images into the **train** folder (that folder had too many images to upload to GitHub).
 
